@@ -13,7 +13,7 @@ body {
   font-size: 1.25rem;
 }
 .display-2 {
-  font-family: 'Jost', sans-serif;
+  font-family: 'Roboto', sans-serif;
   font-size: 2rem;
   line-height: 1.1;
 }
@@ -1029,28 +1029,28 @@ a {
 }
 @media (min-width: 992px) {
   .cid-sSL3AHJ3zP .carousel {
-    min-height: 400px;
+    min-height: 500px;
   }
   .cid-sSL3AHJ3zP .carousel img {
-    max-height: 400px;
+    max-height: 500px;
     object-fit: contain;
   }
 }
 @media (max-width: 991px) and (min-width: 768px) {
   .cid-sSL3AHJ3zP .carousel {
-    min-height: 260px;
+    min-height: 325px;
   }
   .cid-sSL3AHJ3zP .carousel img {
-    max-height: 260px;
+    max-height: 325px;
     object-fit: contain;
   }
 }
 @media (max-width: 767px) {
   .cid-sSL3AHJ3zP .carousel {
-    min-height: 220px;
+    min-height: 275px;
   }
   .cid-sSL3AHJ3zP .carousel img {
-    max-height: 220px;
+    max-height: 275px;
     object-fit: contain;
   }
   .cid-sSL3AHJ3zP .container .carousel-control {
